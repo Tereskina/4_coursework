@@ -1,7 +1,7 @@
 # import pytest
 #
 # from project.dao import DirectorsDAO
-# from project.dao.models.director import Director
+# from project.models import Director
 #
 #
 # class TestDirectorsDAO:
